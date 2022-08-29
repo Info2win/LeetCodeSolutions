@@ -23,3 +23,10 @@ Solved by checking every character in a if else if block which is in a for loop
 
 Runtime: 15 ms, faster than 66.43% of C++ online submissions for Roman to Integer.
 Memory Usage: 6 MB, less than 69.23% of C++ online submissions for Roman to Integer.
+
+- Approach 2 
+
+Solved by using a map which stores every single possibility and their's values. A for loop and a if else block is used to check if keys with 2 characters exists.
+
+Runtime: 36 ms, faster than 15.60% of C++ online submissions for Roman to Integer.
+Memory Usage: 12.7 MB, less than 5.09% of C++ online submissions for Roman to Integer.
