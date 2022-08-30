@@ -4,11 +4,11 @@
 
 - Approach 1
 
-Solved by using nested for loops in 2 passes
+- Solved by using nested for loops in 2 passes
 
-Memory Usage: 10.3 MB
+- Memory Usage: 10.3 MB
 
-13 lines
+- 13 lines
 
 - Approach 2 
 
