@@ -39,3 +39,10 @@ Solved by using nested loops and checked all the strings against first string wi
 
 Runtime: 4 ms, faster than 79.52% of C++ online submissions for Longest Common Prefix.
 Memory Usage: 9.3 MB, less than 55.62% of C++ online submissions for Longest Common Prefix.
+
+- Approach 2
+
+Solved by first sorting the strings then checking the first string
+
+Memory Usage: 9.0 MB, less than 93.25% of C++ online submissions for Longest Common Prefix.
+12 lines of code
