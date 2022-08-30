@@ -50,6 +50,10 @@
     - 9 lines
 
 - Approach 2 
-    - Solved by without converting to string just by converting int to its reverse
+    - Solved without converting to string just by converting int to its reverse
     - Memory Usage: 5.9 MB
-    - 12 lines    
+    - 12 lines
+- Approach 3
+    - Solved without using reverse() just by using to_string() and checking chars in a for loop
+    - Memory Usage: 5.9 MB
+    - 10 lines           
