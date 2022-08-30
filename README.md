@@ -1,10 +1,10 @@
-# LeetCode solutions and explanations for coding interviews
+# LEET CODE EXPLANATIONS FOR INTERVIEWS
 
 ## Q1 twoSum
 
 - Approach 1
 
-    - Solved by using nested for loops in 2 passes
+    - Solved by using nested for loops
     - Memory Usage: 10.3 MB
     - 13 lines
 
