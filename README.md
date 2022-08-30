@@ -10,19 +10,22 @@
 
     - 13 lines
 
-    - Approach 2 
+- Approach 2 
 
-Solved by using a for loop and a map 
+    - Solved by using a for loop and a map 
 
-Memory Usage: 10.9 MB, less than 34.04% of C++ online submissions for Two Sum. 17 lines
+    - Memory Usage: 10.9 MB
+    - 17 lines
 
 ## Q2 romantToInt
 
 - Approach 1
 
-Solved by checking every character in a if else if block which is in a for loop
+    - Solved by checking every character in a if else if block which is in a for loop
 
-Memory Usage: 6 MB, less than 69.23% of C++ online submissions for Roman to Integer. 59 lines
+    - Memory Usage: 6 MB
+    - 59 lines
+    
 - Approach 2 
 
 Solved by using a map which stores every single possibility and their's values. A for loop and a if else block is used to check if keys with 2 characters exists.
