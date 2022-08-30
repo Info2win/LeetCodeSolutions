@@ -39,6 +39,12 @@
 - Approach 2
 
     - Solved by first sorting the strings then checking the first string
-
     - Memory Usage: 9.0 MB
     - 12 lines
+
+## Q9 isPalindrome
+
+- Approach 1
+    - Solved by first converting int to string with to_string(x) then making a mirror of a string with reverse(mirror.begin(),mirror.end()) then comparing original string to it's mirror
+    - Memory Usage: 5.9 MB
+    - 9 lines
