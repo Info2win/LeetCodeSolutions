@@ -28,7 +28,7 @@
     - Memory Usage: 12.7 MB
     - 17 lines
 
-## Q14 longestCommonPrefix
+## Q13 longestCommonPrefix
 
 - Approach 1
 
