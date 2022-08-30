@@ -45,6 +45,11 @@
 ## Q9 isPalindrome
 
 - Approach 1
-    - Solved by first converting int to string with to_string(x) then making a mirror of a string with reverse(mirror.begin(),mirror.end()) then comparing original string to it's mirror
+    - Solved by first converting int to string with to_string(x) then making a mirror of a string with reverse(mirror.begin(),mirror.end()) then comparing original string to its mirror
     - Memory Usage: 5.9 MB
     - 9 lines
+
+- Approach 2 
+    - Solved by without converting to string just by converting int to its reverse
+    - Memory Usage: 5.9 MB
+    - 12 lines    
