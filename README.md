@@ -33,6 +33,8 @@ Memory Usage: 12.7 MB, less than 5.09% of C++ online submissions for Roman to In
 
 ## Q3 longestCommonPrefix
 
+- Approach 1
+
 Solved by using nested loops and checked all the strings against first string with an if 
 
 Runtime: 4 ms, faster than 79.52% of C++ online submissions for Longest Common Prefix.
