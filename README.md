@@ -1,4 +1,4 @@
-# This repository includes my LeetCode solutions and explanations to prepare myself for coding interview questions
+# LeetCode solutions and explanations for coding interviews
 
 ## Q1 twoSum
 
