@@ -56,4 +56,11 @@
 - Approach 3
     - Solved without using reverse() just by using to_string() and checking chars in a for loop
     - Memory Usage: 5.9 MB
-    - 10 lines           
+    - 10 lines
+
+## Q20 validParentheses      
+
+- Approach 1
+    - Solved by pushing into a stack if it is opening bracket, checked if stack is empty then popded if it is the matching closing bracket if empty or not matches return false, at the end return stack.empty()
+    - Memory Usage: 6.2 MB
+    - 27 lines
