@@ -65,7 +65,7 @@
     - Memory Usage: 6.2 MB
     - 27 lines
 
-# Q21 mergeTwoSortedLists
+## Q21 mergeTwoSortedLists
 
 - Approach 1
     - Solved by first checking if any of the lists are empty, then assigning the low one to the end, then looping through the list1 and list2 and creating the new list until one of the given  lists is reaches to end, lastly pointed the new list's last nodes next to the one of the given lists which did not reach to its end at the end of the while loop.
