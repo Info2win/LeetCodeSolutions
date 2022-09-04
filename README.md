@@ -82,3 +82,7 @@
     - Kept insertion_place in a variable and looped through the array, if current element is not equal to insertion_place's element inserted current element to the place, returned insertion_place+1 as the uniqe elements' count
     - Memory Usage: 18.4 MB
     - 15 lines
+- Approach 2
+    - Used std::unique(nums.begin(),nums.end()) to get all the unique elements at the begining of the array and hold the return value(an iterator to where the unique elements end) in a variable named it,used std::resize(std::distance(nums.begin(),it)) to resize the array of the unique part.
+    - Memory Usage: 18.4 MB
+    - 8 lines
