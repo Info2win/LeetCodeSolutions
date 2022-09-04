@@ -75,3 +75,10 @@
     - Recorsive solution
     - Memory Usage: 14.8 MB
     - 31 lines
+
+## Q23 removeDuplicatesFromSortedArray
+
+- Approach 1
+    - Kept insertion_place in a variable and looped through the array, if current element is not equal to insertion_place's element inserted current element to the place, returned insertion_place+1 as the uniqe elements' count
+    - Memory Usage: 18.4 MB
+    - 15 lines
