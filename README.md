@@ -86,3 +86,9 @@
     - Used std::unique(nums.begin(),nums.end()) to get all the unique elements at the begining of the array and hold the return value(an iterator to where the unique elements end) in a variable named it,used std::resize(std::distance(nums.begin(),it)) to resize the array of the unique part.
     - Memory Usage: 18.3 MB
     - 8 lines
+## Q66 plusOne
+
+- Approach 1
+    - Returned +1 if last element is not 9, else counted how many 9 we have at the end and popped them then if all the elements of the array was 9 pushed 1 as the first element else incremented the last remaining element once, lastly added the requried zeros at the end
+    - Memory Usage: 8.7 MB
+    - 32 lines
