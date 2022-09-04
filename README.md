@@ -92,3 +92,7 @@
     - Returned +1 if last element is not 9, else counted how many 9 we have at the end and popped them then if all the elements of the array was 9 pushed 1 as the first element else incremented the last remaining element once, lastly added the requried zeros at the end
     - Memory Usage: 8.7 MB
     - 32 lines
+- Approach 2
+    - Traversed the array back, if element is 9 make it 0 and we have a carry else element++ and no carry, after the traverse back if we have carry that means every element in the array was 9 so push front 1
+    - Memory Usage: 8.8 MB
+    - 13 lines
