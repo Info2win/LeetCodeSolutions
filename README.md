@@ -102,3 +102,8 @@
     - Memory Usage: 5.9 MB
     - Runtime: 37 ms
     - 18 lines
+- Approach 2
+    - Solved by returning 0 if the given integer is 0 otherwise using binary search
+    - Memory Usage: 5.9 MB
+    - Runtime: 10 ms
+    - 14 lines
