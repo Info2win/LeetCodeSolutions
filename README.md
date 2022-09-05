@@ -96,7 +96,7 @@
     - Traversed the array back, if element is 9 make it 0 and we have a carry else element++ and no carry, after the traverse back if we have carry that means every element in the array was 9 so push front 1
     - Memory Usage: 8.8 MB
     - 13 lines
-## Q69 Sqrt(x
+## Q69 Sqrt(x)
 - Approach 1
     - Went through every integer and checked if their square is equal or greater then given integer returned current number if they are equal, returned current number - 1 if square is greater then the given inter
     - Memory Usage: 5.9 MB
