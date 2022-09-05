@@ -100,4 +100,5 @@
 - Approach 1
     - Went through every integer and checked if their square is equal or greater then given integer returned current number if they are equal, returned current number - 1 if square is greater then the given inter
     - Memory Usage: 5.9 MB
+    - Runtime: 37 ms
     - 18 lines
