@@ -117,3 +117,7 @@
     - Checked if second array empty else merged the arrays using std::merge() into a temporary array then copied temporary array into first array
     - Memory Usage: 9.2 MB
     - 10 lines
+- Approach 2
+    - second array placed into zeros of first array in a for loop than sorted with sort()
+    - Memory Usage: 9.2 MB
+    - 10 lines
