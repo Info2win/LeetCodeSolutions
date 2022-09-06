@@ -126,3 +126,7 @@
     - Solved recursivly, not that result variable is declared in the scope of class not the function
     - Memory Usage: 10.3 MB
     - 23 lines
+- Approach 2
+    - Solved iterativly, using a stack.
+    - Memory Usage: 8.4 MB
+    - 31 lines
