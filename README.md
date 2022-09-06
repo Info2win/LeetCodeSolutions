@@ -109,7 +109,7 @@
     - 14 lines
 ## Q70 climbingStairs
 - Approach 1
-    -Go through integers until n-1 with a for loop and in the loop do =>  temp = v[0]; v[0] += v[1]; v[1] = temp; // this is O(n) but it is easy to implement 
+    - Go through integers until n-1 with a for loop and in the loop do =>  temp = v[0]; v[0] += v[1]; v[1] = temp; // this is O(n) but it is easy to implement 
     - Memory Usage: 6.1 MB
     - 15 lines
 ## Q88 mergeSortedArray
