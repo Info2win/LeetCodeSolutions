@@ -127,6 +127,10 @@
     - Memory Usage: 10.3 MB
     - 23 lines
 - Approach 2
-    - Solved iterativly, using a stack.
+    - Solved iteratively, using a stack.
     - Memory Usage: 8.4 MB
     - 31 lines
+- Approach 3
+    - Solved iteratively, using Morris traversal.
+    - Memory Usage: 8.4 MB
+    - 40 lines
