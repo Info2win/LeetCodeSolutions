@@ -121,3 +121,8 @@
     - second array placed into zeros of first array in a for loop than sorted with sort()
     - Memory Usage: 9.2 MB
     - 10 lines
+## Q99 BTinorderTraversal
+- Approach 1 
+    - Solved recursivly, not that result variable is declared in the scope of class not the function
+    - Memory Usage: 10.3 MB
+    - 23 lines
