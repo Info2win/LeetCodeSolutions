@@ -83,11 +83,9 @@
 ## Q69 Sqrt(x)
 - Approach 1
     - Went through every integer and checked if their square is equal or greater then given integer returned current number if they are equal, returned current number - 1 if square is greater then the given inter
-    - Memory Usage: 5.9 MB
     - 18 lines
 - Approach 2
     - Solved by returning 0 if the given integer is 0 otherwise using binary search
-    - Runtime: 10 ms
     - 14 lines
 ## Q70 climbingStairs
 - Approach 1
