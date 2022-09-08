@@ -119,3 +119,6 @@
 - Approach 3
     - Iterative solution, in a stack<TreeNode*> stored rootLeft->left, rootRight->right , rootLeft->right, rootRight->left, then popped 2 of them at a time, checked if the popped ones are same or not.
     - 34 lines
+## Q104 maximumDepthOfBinaryTree
+- Approach 1
+    - Recursively solution is just a line ,return max(maxDepth(root->left),maxDepth(root->right))+1; so we do not need consider even another approach to solve this problem.
