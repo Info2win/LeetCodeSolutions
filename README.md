@@ -116,3 +116,6 @@
 - Approach 2
     - Stored both left subtree and right subtree in stacks using 2 recursive functions. Then checked if the stacks are same.
     - 49 lines
+- Approach 3
+    - Iterative solution, in a stack<TreeNode*> stored rootLeft->left, rootRight->right , rootLeft->right, rootRight->left, then popped 2 of them at a time, checked if the popped ones are same or not.
+    - 34 lines
