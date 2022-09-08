@@ -113,3 +113,6 @@
 - Approach 1
     - Checked recursiveCheck(rootLeft->left,rootRight->right) && recursiveCheck(rootLeft->right,rootRight->left) in a recursive function.
     - 23 lines
+- Approach 2
+    - Stored both left subtree and right subtree in stacks using 2 recursive functions. Then checked if the stacks are same.
+    - 49 lines
