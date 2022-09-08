@@ -108,3 +108,8 @@
 - Approach 3
     - Solved iteratively, using Morris traversal.
     - 40 lines
+## Q101 symmetricTree
+
+- Approach 1
+    - Checked recursiveCheck(rootLeft->left,rootRight->right) && recursiveCheck(rootLeft->right,rootRight->left) in a recursive function.
+    - 23 lines
