@@ -122,3 +122,7 @@
 ## Q104 maximumDepthOfBinaryTree
 - Approach 1
     - Recursively solution is just a line ,return max(maxDepth(root->left),maxDepth(root->right))+1; so we do not need consider even another approach to solve this problem.
+## Q108 Convert Sorted Array to Binary Search Tree
+- Approach 1
+    - Recursively called to construct left subtree and right subtree.
+    - 26 lines
