@@ -131,3 +131,7 @@
 - Approach 1
     - Linear search using nested loops
     - 13 lines
+## Q242 Valid Anagram
+- Approach 1
+    - Hold every char's count in maps for each string. Then compare counts.
+    - 17 lines
