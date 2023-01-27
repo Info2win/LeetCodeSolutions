@@ -127,3 +127,7 @@
 - Approach 1
     - Recursively called to construct left subtree and right subtree.
     - 26 lines
+## Q217 Contains Duplicate
+- Approach 1
+    - Linear search using nested loops
+    - 13 lines
