@@ -139,3 +139,7 @@
 - Approach 1
     - Map charCount to list of Anagrams
     - 33 lines
+## Q347 Top K Frequent Elements
+- Approach 1
+    - Use Bucket Sort
+    - 22 lines
