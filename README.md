@@ -135,3 +135,7 @@
 - Approach 1
     - Hold every char's count in maps for each string. Then compare counts.
     - 17 lines
+## Q49 Group Anagrams
+- Approach 1
+    - Map charCount to list of Anagrams
+    - 33 lines
