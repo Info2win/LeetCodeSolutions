@@ -147,3 +147,7 @@
 - Approach 1
     - Compute product of prefix first, store them in result vector, compute postfix, multiply prefixes with the associated postfixes
     - 19 lines
+## Q36 Valdi Sudoku
+- Approach 1
+    - For every row,column, and sub-box seperatly check if they contain digits once. Hold counts in a map.
+    - 47 lines
