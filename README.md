@@ -151,3 +151,7 @@
 - Approach 1
     - For every row,column, and sub-box seperatly check if they contain digits once. Hold counts in a map.
     - 47 lines
+## Q128 Longest Consecutive Sequence
+- Approach 1
+    - Sort the nums. Then, check nums[i] against nums[i+1]
+    - 16 lines
