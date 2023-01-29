@@ -155,3 +155,7 @@
 - Approach 1
     - Sort the nums. Then, check nums[i] against nums[i+1]
     - 16 lines
+## Q15 3Sum
+- Approach 1
+    - Sort, for each i, have j & k go outside in, check for 0 sums
+    - 50 lines 
