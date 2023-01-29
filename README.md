@@ -143,3 +143,7 @@
 - Approach 1
     - Use Bucket Sort
     - 22 lines
+## Q238 Product of Array Except Self
+- Approach 1
+    - Compute product of prefix first, store them in result vector, compute postfix, multiply prefixes with the associated postfixes
+    - 19 lines
