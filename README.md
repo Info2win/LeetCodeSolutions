@@ -165,4 +165,8 @@
     - 18 lines
 - Approach 2
     - Use two pointer, move the left pointer is pointing to a hight that is higher than right pointer's. (Note that it is the optimal solution with O(n))
-    - 20 lines 
+    - 20 lines
+## Q155 Min Stack
+- Approach 1
+    - Use two stacks, one of them hold actual values, other holds min value and its count
+    - 35 lines
