@@ -159,3 +159,7 @@
 - Approach 1
     - Sort, for each i, have j & k go outside in, check for 0 sums
     - 50 lines 
+## Q11 Container With Most Water
+- Approach 1
+    - Check every possiblity with a nested loop. (Note that 0(n^2) is too much so time limit exceets)
+    - 18 lines
