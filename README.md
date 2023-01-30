@@ -163,3 +163,6 @@
 - Approach 1
     - Check every possiblity with a nested loop. (Note that 0(n^2) is too much so time limit exceets)
     - 18 lines
+- Approach 2
+    - Use two pointer, move the left pointer is pointing to a hight that is higher than right pointer's. (Note that it is the optimal solution with O(n))
+    - 20 lines 
