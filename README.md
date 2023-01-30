@@ -174,3 +174,7 @@
 - Approach 1
     - Use stack to hold operands and pop 2 of them at time
     - 33 lines
+## Q22 Generate Parantheses
+- Approach 1
+    - Backtracking recursively
+    - 24 lines
