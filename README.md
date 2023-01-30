@@ -170,3 +170,7 @@
 - Approach 1
     - Use two stacks, one of them hold actual values, other holds min value and its count
     - 35 lines
+## Q150 Evaluate Reverse Polish Notation
+- Approach 1
+    - Use stack to hold operands and pop 2 of them at time
+    - 33 lines
