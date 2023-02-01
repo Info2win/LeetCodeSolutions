@@ -182,3 +182,6 @@
 - Approach 1
     - In a nested loop check every possibility (Note that, this solution has O(n^2) time complexity and thus, time limit exceedes when array length is 10^5)
     - 20 lines
+- Approach 2
+    - Monotonic decreasing stack, at each day, compare increasing from previous days
+    - 21 lines
