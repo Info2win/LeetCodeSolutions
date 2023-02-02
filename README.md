@@ -185,3 +185,7 @@
 - Approach 2
     - Monotonic decreasing stack, at each day, compare increasing from previous days
     - 21 lines
+## Q853 Car Fleet
+- Approach 1
+    - Hold positions and times to arrive to target as pairs in a vector. Then, in a for loop increase result if current car's arrive time is bigger than maxtime (that means this is a new fleet)
+    - 22 lines
