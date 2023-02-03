@@ -189,3 +189,7 @@
 - Approach 1
     - Hold positions and times to arrive to target as pairs in a vector. Then, in a for loop increase result if current car's arrive time is bigger than maxtime (that means this is a new fleet)
     - 22 lines
+## Q206 Reverse Linked List
+- Approach 1
+    - In a while loop hold previous,current and next nodes turn back the linkes between nodes.
+    - 16 lines
