@@ -193,3 +193,7 @@
 - Approach 1
     - In a while loop hold previous,current and next nodes turn back the linkes between nodes.
     - 16 lines
+## Q143 Reorder List
+- Apporach 1
+    - Find middle, reverse the second half, merge two halfs.
+    - 35 lines
