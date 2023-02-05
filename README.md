@@ -197,3 +197,7 @@
 - Apporach 1
     - Find middle, reverse the second half, merge two halfs.
     - 35 lines
+## Q19 Remove Nth Node From End of List
+- Approach 1
+    - Insert a dummy before the head, using two pointers (left and right) find the previous node from to be deleted node, delete the node
+    - 18 lines
