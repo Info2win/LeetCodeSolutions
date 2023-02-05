@@ -205,3 +205,7 @@
 - Approach 1
     - At first traverse, construct copies and map originals to copies, at second traverse, assign copy->next and copy->random from map
     - 21 lines
+## Q2 Add Two Numbers
+- Approach 1
+    - Create a dummy node for a new linkedlist, While(l1 || l2 || carry) add values and insert into new linkedlist, return dummy->next as head of the new linkedlist
+    - 30 lines
