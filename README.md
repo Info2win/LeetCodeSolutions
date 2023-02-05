@@ -209,3 +209,7 @@
 - Approach 1
     - Create a dummy node for a new linkedlist, While(l1 || l2 || carry) add values and insert into new linkedlist, return dummy->next as head of the new linkedlist
     - 30 lines
+## Q141 Linked List Cycle
+- Approach 1
+    - While(fast->next && fast->next->next) slow pointer shifted by one and faster shifted by two. If they meet eachother there is a cycle
+    - 14 lines
