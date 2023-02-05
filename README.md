@@ -213,3 +213,7 @@
 - Approach 1
     - While(fast->next && fast->next->next) slow pointer shifted by one and faster shifted by two. If they meet eachother there is a cycle
     - 14 lines
+## Q287 Find the Duplicate Number
+- Approach 1
+    - Copy array into another array, sort. Than, while traversing if arr[i] == arr[i+1] return arr[i]. Note that this solution uses extra memory.
+    - 11 lines
