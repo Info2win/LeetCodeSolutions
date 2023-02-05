@@ -201,3 +201,7 @@
 - Approach 1
     - Insert a dummy before the head, using two pointers (left and right) find the previous node from to be deleted node, delete the node
     - 18 lines
+## Q138 Copy List with Random Pointer
+- Approach 1
+    - At first traverse, construct copies and map originals to copies, at second traverse, assign copy->next and copy->random from map
+    - 21 lines
