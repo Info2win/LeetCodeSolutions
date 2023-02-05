@@ -217,3 +217,6 @@
 - Approach 1
     - Copy array into another array, sort. Than, while traversing if arr[i] == arr[i+1] return arr[i]. Note that this solution uses extra memory.
     - 11 lines
+- Approach 2
+    - Use floyd's algo (slow,fast pointer) to detect cycle which means a number occured twice. Note that this solution is pptimum and does NOT use extra memory.
+    - 18 lines
