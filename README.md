@@ -218,5 +218,9 @@
     - Copy array into another array, sort. Than, while traversing if arr[i] == arr[i+1] return arr[i]. Note that this solution uses extra memory.
     - 11 lines
 - Approach 2
-    - Use floyd's algo (slow,fast pointer) to detect cycle which means a number occured twice. Note that this solution is pptimum and does NOT use extra memory.
+    - Use floyd's algo (slow,fast pointer) to detect cycle which means a number occured twice. Note that this solution is optimum and does NOT use extra memory.
     - 18 lines
+## Q146 LRU Cache
+- Approach 1
+    - Use a map to map keys to nodes(key,value pairs), and a doubly linked list of nodes to keep track of LRU value
+    - 83 lines
