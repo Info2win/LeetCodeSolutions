@@ -228,3 +228,7 @@
 - Approach 1
     - Using left,right and mid pointers implemented binary search alg.
     - 19 lines
+## Q74 Search a 2D Matrix
+- Approach 1
+    - For every row apply binary search alg.
+    - 23 lines
