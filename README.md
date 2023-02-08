@@ -224,3 +224,7 @@
 - Approach 1
     - Use a map to map keys to nodes(key,value pairs), and a doubly linked list of nodes to keep track of LRU value
     - 83 lines
+## Q704 Binary Search
+- Approach 1
+    - Using left,right and mid pointers implemented binary search alg.
+    - 19 lines
