@@ -236,3 +236,7 @@
 - Approach 1
     - Min hour is 1 and max hour is the max value of the arr. Between these hours apply binary search alg to find minumum possible hours to eat all of the bananas.
     - 24 lines 
+## Q153 Find Minimum in Rotated Sorted Array
+- Approach 1
+    - Sort it wih std::sort. Than, return the first element.
+    - 7 lines
