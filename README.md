@@ -232,3 +232,7 @@
 - Approach 1
     - For every row apply binary search alg.
     - 23 lines
+## Q875 Koko Eating Bananas
+- Approach 1
+    - Min hour is 1 and max hour is the max value of the arr. Between these hours apply binary search alg to find minumum possible hours to eat all of the bananas.
+    - 24 lines 
