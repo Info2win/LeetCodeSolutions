@@ -240,3 +240,6 @@
 - Approach 1
     - Sort it wih std::sort. Than, return the first element.
     - 7 lines
+- Approach 2
+    - Apply binary search.
+    - 14 lines
