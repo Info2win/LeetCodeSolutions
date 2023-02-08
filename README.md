@@ -243,3 +243,8 @@
 - Approach 2
     - Apply binary search.
     - 14 lines
+
+## Q33 Search in Rotated Sorted Array
+- Approach 1
+    - Apply binary search to left sorted portion and right sorted portion.
+    - 29 lines
