@@ -252,3 +252,7 @@
 - Approach 1
     - Map keys to a list of pairs(value,timestap), to set push_back pairs, to get make a binary search on timestaps.
     - 25 lines
+## Q121 Best Time to Buy and Sell Stock
+- Approach 1
+    - Use two pointers to keep track of lowest and hight values
+    - 17 lines
