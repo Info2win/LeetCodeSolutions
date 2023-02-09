@@ -256,3 +256,7 @@
 - Approach 1
     - Use two pointers to keep track of lowest and hight values
     - 17 lines
+## Q3 Longest Substring Without Repeating Characters
+- Approach 2
+    - Using two pointers apply sliding window technique
+    - 18 lines
