@@ -248,3 +248,7 @@
 - Approach 1
     - Apply binary search to left sorted portion and right sorted portion.
     - 29 lines
+## Q981 Time Based Key-Value Store
+- Approach 1
+    - Map keys to a list of pairs(value,timestap), to set push_back pairs, to get make a binary search on timestaps.
+    - 25 lines
