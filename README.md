@@ -260,3 +260,7 @@
 - Approach 2
     - Using two pointers apply sliding window technique
     - 18 lines
+## Q424 Longest Repeating Character Replacement
+- Approach 2
+    - Apply sliding windows technique, if(right-left+1-maxf >k) move left
+    - 20 lines
