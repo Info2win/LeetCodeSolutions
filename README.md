@@ -257,10 +257,14 @@
     - Use two pointers to keep track of lowest and hight values
     - 17 lines
 ## Q3 Longest Substring Without Repeating Characters
-- Approach 2
+- Approach 1
     - Using two pointers apply sliding window technique
     - 18 lines
 ## Q424 Longest Repeating Character Replacement
-- Approach 2
+- Approach 1
     - Apply sliding windows technique, if(right-left+1-maxf >k) move left
     - 20 lines
+## Q110 Same Tree
+- Approach 1
+    - Apply DFS(depth for search) recursive alg,
+    - 8 lines
