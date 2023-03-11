@@ -268,3 +268,7 @@
 - Approach 1
     - Apply DFS(depth for search) recursive alg,
     - 8 lines
+## Q102 Binary Tree Level Order Traversal
+- Approach 1
+    - Apply BFS algorithm
+    - 25 lines
