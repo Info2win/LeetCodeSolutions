@@ -272,3 +272,7 @@
 - Approach 1
     - Apply BFS algorithm
     - 25 lines
+## Q5 Longest Palindromic Substring
+- Approach 1
+    - Brute force approach with time complexity O(n^3)
+    - 33 lines
