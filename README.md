@@ -276,3 +276,6 @@
 - Approach 1
     - Brute force approach with time complexity O(n^3)
     - 33 lines
+- Approach 2
+    - Select a center, then check left and right chars O(n^2)
+    - 26 lines
