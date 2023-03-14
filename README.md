@@ -279,3 +279,7 @@
 - Approach 2
     - Select a center, then check left and right chars O(n^2)
     - 26 lines
+## Q98 Validate Binary Search Tree
+- Approach 1
+    - Apply DFS algortihm
+    - 13 lines
