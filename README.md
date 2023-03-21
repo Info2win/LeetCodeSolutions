@@ -283,3 +283,7 @@
 - Approach 1
     - Apply DFS algortihm
     - 13 lines
+## Q2348 Number of Zero-Filled Subarrays
+- Approach 1
+    - Every Nth zero means n piece of new subarrays, count that up and add to result in a for loop. Time complexity is O(n).
+    - 14 lines
