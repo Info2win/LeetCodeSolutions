@@ -287,3 +287,7 @@
 - Approach 1
     - Every Nth zero means n piece of new subarrays, count that up and add to result in a for loop. Time complexity is O(n).
     - 14 lines
+## Q75 Sort Colors
+- Approach 1
+    - Apply quicksort partition. Time complexity is O(n) (only one pass).
+    - 20 lines
